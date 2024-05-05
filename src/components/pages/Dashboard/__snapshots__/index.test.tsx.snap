@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DashBoard should render the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home"
+      >
+        <h1
+          class="text-3xl font-bold mt-9"
+          data-testid="dashboard"
+        >
+          Dashboard
+        </h1>
+        <ul
+          class="mb-5 flex list-none flex-col flex-wrap pl-0 md:flex-row justify-center"
+          data-te-nav-ref="true"
+          id="pills-tab"
+          role="tablist"
+        >
+          <li
+            role="presentation"
+          >
+            <a
+              aria-controls="new"
+              aria-selected="true"
+              class="my-2 block rounded bg-neutral-100 px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 data-[te-nav-active]:!bg-primary-100 data-[te-nav-active]:text-primary-700 dark:bg-neutral-700 dark:text-white dark:data-[te-nav-active]:text-primary-700 md:mr-4"
+              data-te-nav-active="true"
+              data-te-target="#new"
+              data-te-toggle="pill"
+              href="#new"
+              id="new-tab"
+              role="tab"
+            >
+              New Questions
+            </a>
+          </li>
+          <li
+            role="presentation"
+          >
+            <a
+              aria-controls="answered"
+              aria-selected="false"
+              class="my-2 block rounded bg-neutral-100 px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 data-[te-nav-active]:!bg-primary-100 data-[te-nav-active]:text-primary-700 dark:bg-neutral-700 dark:text-white dark:data-[te-nav-active]:text-primary-700 md:mr-4"
+              data-te-target="#answered"
+              data-te-toggle="pill"
+              href="#answered"
+              id="answered-tab"
+              role="tab"
+            >
+              Answered Questions
+            </a>
+          </li>
+        </ul>
+        <div>
+          <h2
+            class="text-2xl font-bold mt-6"
+          >
+            New Questions
+          </h2>
+          <ul
+            class="divide-y divide-gray-100"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home"
+    >
+      <h1
+        class="text-3xl font-bold mt-9"
+        data-testid="dashboard"
+      >
+        Dashboard
+      </h1>
+      <ul
+        class="mb-5 flex list-none flex-col flex-wrap pl-0 md:flex-row justify-center"
+        data-te-nav-ref="true"
+        id="pills-tab"
+        role="tablist"
+      >
+        <li
+          role="presentation"
+        >
+          <a
+            aria-controls="new"
+            aria-selected="true"
+            class="my-2 block rounded bg-neutral-100 px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 data-[te-nav-active]:!bg-primary-100 data-[te-nav-active]:text-primary-700 dark:bg-neutral-700 dark:text-white dark:data-[te-nav-active]:text-primary-700 md:mr-4"
+            data-te-nav-active="true"
+            data-te-target="#new"
+            data-te-toggle="pill"
+            href="#new"
+            id="new-tab"
+            role="tab"
+          >
+            New Questions
+          </a>
+        </li>
+        <li
+          role="presentation"
+        >
+          <a
+            aria-controls="answered"
+            aria-selected="false"
+            class="my-2 block rounded bg-neutral-100 px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 data-[te-nav-active]:!bg-primary-100 data-[te-nav-active]:text-primary-700 dark:bg-neutral-700 dark:text-white dark:data-[te-nav-active]:text-primary-700 md:mr-4"
+            data-te-target="#answered"
+            data-te-toggle="pill"
+            href="#answered"
+            id="answered-tab"
+            role="tab"
+          >
+            Answered Questions
+          </a>
+        </li>
+      </ul>
+      <div>
+        <h2
+          class="text-2xl font-bold mt-6"
+        >
+          New Questions
+        </h2>
+        <ul
+          class="divide-y divide-gray-100"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
